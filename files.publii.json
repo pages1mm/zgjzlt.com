@@ -1,0 +1,747 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "1bd9ea00b39346c2e5d5a0eca6b1112f"
+    },
+    {
+        "path": "about.html",
+        "type": "file",
+        "md5": "0972fc174b25f77e72b49aa9538ec54d"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "0be31b11bd700c17bf0e1a95ae4822b1"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "7b94ce67b508f2453b2c0cf478d7931b"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "840d1d0fb7276666706cba10ebb3b40e"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "18a65c58aef57c0287e0f0609f3389a9"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "9fc67de3715469dc45c582bce11c4eba"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/search.svg",
+        "type": "file",
+        "md5": "dcb9af3171e104304c8117f1c118f2e2"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "bb9e0f5b5c047dfe2eeea9c36390b9f0"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/zgjzlt",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/zgjzlt/index.html",
+        "type": "file",
+        "md5": "7c7e3aad410a9d9e49fb3f8708f5dbc0"
+    },
+    {
+        "path": "contact.html",
+        "type": "file",
+        "md5": "91a45e66d12326890de732a2f23cd98c"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "8f1cfd2c2eccdbc811001340138f102e"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "6d2d053cabb42a78b14a7187880ba718"
+    },
+    {
+        "path": "how-to-identify-promising-altcoins-before-they-surge-expert-tips-and-strategies.html",
+        "type": "file",
+        "md5": "bc3302581cc3efa04ff173cca8bf19dd"
+    },
+    {
+        "path": "how-to-start-investing-in-cryptocurrency-the-ultimate-beginners-guide.html",
+        "type": "file",
+        "md5": "eba373df3eaad05a64c82d5eba81ccc4"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "541bc5683e577f43487b353ca597c63d"
+    },
+    {
+        "path": "mastering-crypto-how-to-minimize-risk-and-manage-volatility-in-trading-successfully.html",
+        "type": "file",
+        "md5": "97485e051b1ffd9ac89896825b1ad8e0"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/authors/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/authors/1/cover.png",
+        "type": "file",
+        "md5": "941e7aa12f6b1867dab9e5500f6f4dac"
+    },
+    {
+        "path": "media/authors/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-2xl.png",
+        "type": "file",
+        "md5": "c6870a39e9939bb8c5f078297cb73408"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-lg.png",
+        "type": "file",
+        "md5": "2c1c309ccab65684c242b562d999acbc"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-md.png",
+        "type": "file",
+        "md5": "4b706ee9630dfbfc0f2fc546fea81441"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-sm.png",
+        "type": "file",
+        "md5": "18fe0bfbd55337544ae232d0b5bce543"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-xl.png",
+        "type": "file",
+        "md5": "2a6480588325eb9d30855aa065312813"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-xs.png",
+        "type": "file",
+        "md5": "8d02240a2c42089ca365f6316086ec8f"
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/Investing-in-Cryptocurrency.jpg",
+        "type": "file",
+        "md5": "be5ea97401de37b8a84062e3d69c79a2"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/Investing-in-Cryptocurrency-2xl.jpg",
+        "type": "file",
+        "md5": "80ceed694bdb781a296cb3e63b6a9523"
+    },
+    {
+        "path": "/media/posts/1/responsive/Investing-in-Cryptocurrency-lg.jpg",
+        "type": "file",
+        "md5": "80ceed694bdb781a296cb3e63b6a9523"
+    },
+    {
+        "path": "/media/posts/1/responsive/Investing-in-Cryptocurrency-md.jpg",
+        "type": "file",
+        "md5": "208daac91f3059209c4908a0023da14c"
+    },
+    {
+        "path": "/media/posts/1/responsive/Investing-in-Cryptocurrency-sm.jpg",
+        "type": "file",
+        "md5": "3d04adc6d528e2051db5ef1f52cbeeb0"
+    },
+    {
+        "path": "/media/posts/1/responsive/Investing-in-Cryptocurrency-xl.jpg",
+        "type": "file",
+        "md5": "80ceed694bdb781a296cb3e63b6a9523"
+    },
+    {
+        "path": "/media/posts/1/responsive/Investing-in-Cryptocurrency-xs.jpg",
+        "type": "file",
+        "md5": "510626f15211758e401fc731487e999f"
+    },
+    {
+        "path": "media/posts/10",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/Future-of-Cryptocurrency.jpg",
+        "type": "file",
+        "md5": "a7c01be294e37585ebdab3c642edf4dc"
+    },
+    {
+        "path": "media/posts/10/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/10/responsive/Future-of-Cryptocurrency-2xl.jpg",
+        "type": "file",
+        "md5": "5f95aff48b5e7a7331127b4735043766"
+    },
+    {
+        "path": "/media/posts/10/responsive/Future-of-Cryptocurrency-lg.jpg",
+        "type": "file",
+        "md5": "5f95aff48b5e7a7331127b4735043766"
+    },
+    {
+        "path": "/media/posts/10/responsive/Future-of-Cryptocurrency-md.jpg",
+        "type": "file",
+        "md5": "7d016bf6ffdc17fa13d490c0e547a63d"
+    },
+    {
+        "path": "/media/posts/10/responsive/Future-of-Cryptocurrency-sm.jpg",
+        "type": "file",
+        "md5": "6b8f3fd71447d4ecf6c97683297d8660"
+    },
+    {
+        "path": "/media/posts/10/responsive/Future-of-Cryptocurrency-xl.jpg",
+        "type": "file",
+        "md5": "5f95aff48b5e7a7331127b4735043766"
+    },
+    {
+        "path": "/media/posts/10/responsive/Future-of-Cryptocurrency-xs.jpg",
+        "type": "file",
+        "md5": "efb893997e1c4ae58e9d1ef06483a3d9"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/Trading-Strategies.jpg",
+        "type": "file",
+        "md5": "927e26a2371366e278a055e4f2884b37"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/Trading-Strategies-2xl.jpg",
+        "type": "file",
+        "md5": "944d0782a0ac22adeb095b655ca1b1e3"
+    },
+    {
+        "path": "/media/posts/2/responsive/Trading-Strategies-lg.jpg",
+        "type": "file",
+        "md5": "944d0782a0ac22adeb095b655ca1b1e3"
+    },
+    {
+        "path": "/media/posts/2/responsive/Trading-Strategies-md.jpg",
+        "type": "file",
+        "md5": "c780d2aa7a164fc06dd08230f34b87f9"
+    },
+    {
+        "path": "/media/posts/2/responsive/Trading-Strategies-sm.jpg",
+        "type": "file",
+        "md5": "921b33d977f1156dcbd263007758d1a1"
+    },
+    {
+        "path": "/media/posts/2/responsive/Trading-Strategies-xl.jpg",
+        "type": "file",
+        "md5": "944d0782a0ac22adeb095b655ca1b1e3"
+    },
+    {
+        "path": "/media/posts/2/responsive/Trading-Strategies-xs.jpg",
+        "type": "file",
+        "md5": "eb0ee6e0f5e71f5d96ded920a0eec564"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/Promising-Altcoins.jpg",
+        "type": "file",
+        "md5": "dec20d5ad4e682655ea279498c7c736a"
+    },
+    {
+        "path": "media/posts/3/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/responsive/Promising-Altcoins-2xl.jpg",
+        "type": "file",
+        "md5": "4ff46bd00144a0878ab510b9f0e67ca4"
+    },
+    {
+        "path": "/media/posts/3/responsive/Promising-Altcoins-lg.jpg",
+        "type": "file",
+        "md5": "4ff46bd00144a0878ab510b9f0e67ca4"
+    },
+    {
+        "path": "/media/posts/3/responsive/Promising-Altcoins-md.jpg",
+        "type": "file",
+        "md5": "6fe71f3d4c62a63cd56fbb6d1b58fdf5"
+    },
+    {
+        "path": "/media/posts/3/responsive/Promising-Altcoins-sm.jpg",
+        "type": "file",
+        "md5": "94a58240d73693992777ed7f5d4ba700"
+    },
+    {
+        "path": "/media/posts/3/responsive/Promising-Altcoins-xl.jpg",
+        "type": "file",
+        "md5": "4ff46bd00144a0878ab510b9f0e67ca4"
+    },
+    {
+        "path": "/media/posts/3/responsive/Promising-Altcoins-xs.jpg",
+        "type": "file",
+        "md5": "c494a1a57b924dee9f37aa090409d744"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/Blockchain.jpg",
+        "type": "file",
+        "md5": "f492614ed43df1ad8940470451551570"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/Blockchain-2xl.jpg",
+        "type": "file",
+        "md5": "286317b088bb8c73c618e68d87937fe0"
+    },
+    {
+        "path": "/media/posts/4/responsive/Blockchain-lg.jpg",
+        "type": "file",
+        "md5": "286317b088bb8c73c618e68d87937fe0"
+    },
+    {
+        "path": "/media/posts/4/responsive/Blockchain-md.jpg",
+        "type": "file",
+        "md5": "f2b8a17f1515fd1e28f9f1a5f42393b8"
+    },
+    {
+        "path": "/media/posts/4/responsive/Blockchain-sm.jpg",
+        "type": "file",
+        "md5": "4cf4a538ef4ce7139900db82641b54c2"
+    },
+    {
+        "path": "/media/posts/4/responsive/Blockchain-xl.jpg",
+        "type": "file",
+        "md5": "286317b088bb8c73c618e68d87937fe0"
+    },
+    {
+        "path": "/media/posts/4/responsive/Blockchain-xs.jpg",
+        "type": "file",
+        "md5": "23abdb82494be4a26e1fb17fe8c54080"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/Crypto-Investments.jpg",
+        "type": "file",
+        "md5": "62ec8d3d0677c3254cd3497bfaeb9c06"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/Crypto-Investments-2xl.jpg",
+        "type": "file",
+        "md5": "2fc50e3526f3f1bebca522b6cf947aa6"
+    },
+    {
+        "path": "/media/posts/5/responsive/Crypto-Investments-lg.jpg",
+        "type": "file",
+        "md5": "2fc50e3526f3f1bebca522b6cf947aa6"
+    },
+    {
+        "path": "/media/posts/5/responsive/Crypto-Investments-md.jpg",
+        "type": "file",
+        "md5": "cfc6cecd90c240eec0b5cca14d96a975"
+    },
+    {
+        "path": "/media/posts/5/responsive/Crypto-Investments-sm.jpg",
+        "type": "file",
+        "md5": "c961e75c2cf9927d006de1847c552077"
+    },
+    {
+        "path": "/media/posts/5/responsive/Crypto-Investments-xl.jpg",
+        "type": "file",
+        "md5": "2fc50e3526f3f1bebca522b6cf947aa6"
+    },
+    {
+        "path": "/media/posts/5/responsive/Crypto-Investments-xs.jpg",
+        "type": "file",
+        "md5": "f0e4a709774a0d36b08b90ee67db316f"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/Secure-Trading.jpg",
+        "type": "file",
+        "md5": "ed03a8d603918345f6b666fee2275c37"
+    },
+    {
+        "path": "media/posts/6/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/responsive/Secure-Trading-2xl.jpg",
+        "type": "file",
+        "md5": "0a6d7f677bf43261d4e72c3c6d34cebe"
+    },
+    {
+        "path": "/media/posts/6/responsive/Secure-Trading-lg.jpg",
+        "type": "file",
+        "md5": "0a6d7f677bf43261d4e72c3c6d34cebe"
+    },
+    {
+        "path": "/media/posts/6/responsive/Secure-Trading-md.jpg",
+        "type": "file",
+        "md5": "012555facf57d46983786ddf65997d80"
+    },
+    {
+        "path": "/media/posts/6/responsive/Secure-Trading-sm.jpg",
+        "type": "file",
+        "md5": "c0b2654d83cf3b83ba11dd4d36763027"
+    },
+    {
+        "path": "/media/posts/6/responsive/Secure-Trading-xl.jpg",
+        "type": "file",
+        "md5": "0a6d7f677bf43261d4e72c3c6d34cebe"
+    },
+    {
+        "path": "/media/posts/6/responsive/Secure-Trading-xs.jpg",
+        "type": "file",
+        "md5": "8e48f17906d51d76a3b9b04342fb0eca"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/Decentralized-Finance.jpg",
+        "type": "file",
+        "md5": "a4b77d055f7b1f72269541e7bc96a834"
+    },
+    {
+        "path": "media/posts/7/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/responsive/Decentralized-Finance-2xl.jpg",
+        "type": "file",
+        "md5": "252ce8756670c7ae09b7d57191b1791e"
+    },
+    {
+        "path": "/media/posts/7/responsive/Decentralized-Finance-lg.jpg",
+        "type": "file",
+        "md5": "252ce8756670c7ae09b7d57191b1791e"
+    },
+    {
+        "path": "/media/posts/7/responsive/Decentralized-Finance-md.jpg",
+        "type": "file",
+        "md5": "f0567d7835751ee35e92ef8b6f2769dd"
+    },
+    {
+        "path": "/media/posts/7/responsive/Decentralized-Finance-sm.jpg",
+        "type": "file",
+        "md5": "649cc9e86b5376f7fc5c700c579c073d"
+    },
+    {
+        "path": "/media/posts/7/responsive/Decentralized-Finance-xl.jpg",
+        "type": "file",
+        "md5": "252ce8756670c7ae09b7d57191b1791e"
+    },
+    {
+        "path": "/media/posts/7/responsive/Decentralized-Finance-xs.jpg",
+        "type": "file",
+        "md5": "0a67741224fbb1407f4be4b749837f86"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/NFT-Investments.jpg",
+        "type": "file",
+        "md5": "fd7feae7db12ab54d9d307bd3133c0e6"
+    },
+    {
+        "path": "media/posts/8/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/NFT-Investments-2xl.jpg",
+        "type": "file",
+        "md5": "659711c0e696ffc952ae4437ab29e0d9"
+    },
+    {
+        "path": "/media/posts/8/responsive/NFT-Investments-lg.jpg",
+        "type": "file",
+        "md5": "659711c0e696ffc952ae4437ab29e0d9"
+    },
+    {
+        "path": "/media/posts/8/responsive/NFT-Investments-md.jpg",
+        "type": "file",
+        "md5": "ddf2b2610a605281159cee95ebcd6784"
+    },
+    {
+        "path": "/media/posts/8/responsive/NFT-Investments-sm.jpg",
+        "type": "file",
+        "md5": "de62f0e4cb0817ec65a8f6999a19d1b0"
+    },
+    {
+        "path": "/media/posts/8/responsive/NFT-Investments-xl.jpg",
+        "type": "file",
+        "md5": "659711c0e696ffc952ae4437ab29e0d9"
+    },
+    {
+        "path": "/media/posts/8/responsive/NFT-Investments-xs.jpg",
+        "type": "file",
+        "md5": "f9dd1a75a23f181ca7edf26d107b3057"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/Minimize-Risk.jpg",
+        "type": "file",
+        "md5": "af62821703f901790916347ccba681c0"
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/Minimize-Risk-2xl.jpg",
+        "type": "file",
+        "md5": "71e7b045af6ce196ca607115feddbe18"
+    },
+    {
+        "path": "/media/posts/9/responsive/Minimize-Risk-lg.jpg",
+        "type": "file",
+        "md5": "71e7b045af6ce196ca607115feddbe18"
+    },
+    {
+        "path": "/media/posts/9/responsive/Minimize-Risk-md.jpg",
+        "type": "file",
+        "md5": "e44d749c7e824fa69962089586737b08"
+    },
+    {
+        "path": "/media/posts/9/responsive/Minimize-Risk-sm.jpg",
+        "type": "file",
+        "md5": "962f9ce9cad763bda01fb9110dce90d4"
+    },
+    {
+        "path": "/media/posts/9/responsive/Minimize-Risk-xl.jpg",
+        "type": "file",
+        "md5": "71e7b045af6ce196ca607115feddbe18"
+    },
+    {
+        "path": "/media/posts/9/responsive/Minimize-Risk-xs.jpg",
+        "type": "file",
+        "md5": "51236f363237af33cb07a070ee308791"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/cover-2.png",
+        "type": "file",
+        "md5": "941e7aa12f6b1867dab9e5500f6f4dac"
+    },
+    {
+        "path": "/media/website/cover.png",
+        "type": "file",
+        "md5": "941e7aa12f6b1867dab9e5500f6f4dac"
+    },
+    {
+        "path": "/media/website/favicon.ico",
+        "type": "file",
+        "md5": "aa392c13feb886c01bb85fba6b10effc"
+    },
+    {
+        "path": "/media/website/profile.png",
+        "type": "file",
+        "md5": "d86b26de65508fcb9e6db5a855241bb0"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/cover-2-xs.png",
+        "type": "file",
+        "md5": "7dc2bb9c007c8f7b62cec78b0cbe8f96"
+    },
+    {
+        "path": "/media/website/responsive/cover-xs.png",
+        "type": "file",
+        "md5": "7dc2bb9c007c8f7b62cec78b0cbe8f96"
+    },
+    {
+        "path": "/media/website/responsive/profile-xs.png",
+        "type": "file",
+        "md5": "267925de2aa0e880ccfc2d94a50c2fd6"
+    },
+    {
+        "path": "nft-investments-are-they-worth-the-hype-unlocking-value-and-evaluating-risks.html",
+        "type": "file",
+        "md5": "6219896e578a785fb10deaffa5fa3899"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "3a6d02903493a46c9f65632c72d2b084"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "26f804e00b83c4a8e60b17da93a34395"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "c95f84049c505e19cad7201017a3ab5e"
+    },
+    {
+        "path": "the-best-crypto-trading-strategies-for-maximizing-profits-expert-tips-andamp-techniques.html",
+        "type": "file",
+        "md5": "29a544e17c7f3840e8d58f271ad726d3"
+    },
+    {
+        "path": "the-future-of-cryptocurrency-key-trends-and-innovations-youand39ll-want-to-watch.html",
+        "type": "file",
+        "md5": "e212cf23261b03fb82c4921c60a35f32"
+    },
+    {
+        "path": "the-top-crypto-exchanges-how-to-choose-the-right-one-for-secure-trading.html",
+        "type": "file",
+        "md5": "36fe5fd6857b5742a5a35dc32c735abf"
+    },
+    {
+        "path": "ultimate-guide-how-to-safely-store-your-crypto-investments-and-avoid-hacks.html",
+        "type": "file",
+        "md5": "77e6b90116b24f96bd8d2f42b9be556d"
+    },
+    {
+        "path": "understanding-defi-how-decentralized-finance-is-revolutionizing-your-investment-strategy.html",
+        "type": "file",
+        "md5": "339bb8f2888a86639a87e95c3a3eb9f0"
+    },
+    {
+        "path": "unlocking-the-role-of-blockchain-in-the-future-of-digital-finance-a-comprehensive-guide.html",
+        "type": "file",
+        "md5": "826c30fca37167e6aa8f7d46bcf4d0b4"
+    }
+]
